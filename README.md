@@ -43,6 +43,7 @@ This project focuses on the analysis and prediction of breast cancer using vario
 
 ## Future Work
 Advanced Machine Learning and Deep Learning Techniques:
+  
   Explore more complex algorithms like deep neural networks, convolutional neural networks (CNNs), or recurrent neural networks (RNNs) for pattern recognition in breast cancer data.
 Investigate ensemble methods that combine multiple models to improve predictive accuracy
 
