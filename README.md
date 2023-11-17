@@ -42,7 +42,7 @@ This project focuses on the analysis and prediction of breast cancer using vario
 - Support Machine Vector (SVM) is extremely good in term of F1 score
 
 ## Future Work
-- Advanced Machine Learning and Deep Learning Techniques:
+Advanced Machine Learning and Deep Learning Techniques:
   Explore more complex algorithms like deep neural networks, convolutional neural networks (CNNs), or recurrent neural networks (RNNs) for pattern recognition in breast cancer data.
 Investigate ensemble methods that combine multiple models to improve predictive accuracy
 
