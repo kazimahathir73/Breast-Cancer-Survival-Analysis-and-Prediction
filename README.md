@@ -23,9 +23,11 @@ This project focuses on the analysis and prediction of breast cancer using vario
   SVM - 0.7769 || KNN - 0.6404 || Random forest - 0.6955 || Logistic Regression - 0.6772
     
 - F1 score:
+  
   SVM - 0.6996 || KNN - 0.5324 || Random forest - 0.5323 || Logistic Regression - 0.6019
   
 - ROC_AUC score:
+  
   SVM - 0.8094 || KNN - 0.6640 || Random forest - 0.7145 || Logistic Regression - 0.7254
 
 
